@@ -1,0 +1,30 @@
+{
+  "fr": {
+    "titre-connexion": "facebook",
+    "description-connexion": "Connectez-vous avec vos amis et le monde qui vous entoure Facebook",
+    "emailPlaceholder": "Adresse e-mail ou numéro de tél",
+    "passwordPlaceholder": "Mot de passe",
+    "button-connexion": "connexion",
+    "password-oublie": "mot de passe oublié ?",
+    "create-account": "créer un compte",
+    "crate-page-label": "Crér une page",
+    "create-description-label": "pour les célébrités, marques et business",
+    "emailRequired":"email requis",
+    "passwordRequired":"mot de passe requis",
+    "passwordMinLength":"minimun 8 caractères"
+  },
+  "en": {
+    "titre-connexion": "facebook",
+    "description-connexion": "Connect with friends and the world around you facebook",
+    "emailPlaceholder": "Email address or phone number",
+    "passwordPlaceholder": "Password",
+    "button-connexion": "login",
+    "password-oublie": "forgot password ?",
+    "create-account": "create account",
+    "create-page-label": "Create a page",
+    "create-description-label": "or a celebrity, brand or business",
+    "emailRequired":"email required",
+    "passwordRequired":"password required",
+    "passwordMinLength":"minimum 8 characters"
+  }
+}
